@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\services\\services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\dataaccess\\dataaccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\dataaccess\\dataaccess.csproj",
+        "projectName": "dataaccess",
+        "projectPath": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\dataaccess\\dataaccess.csproj",
+        "packagesPath": "C:\\Users\\Karla Valverde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\dataaccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Karla Valverde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\modelos\\modelos.csproj": {
+                "projectPath": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\modelos\\modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\modelos\\modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\modelos\\modelos.csproj",
+        "projectName": "modelos",
+        "projectPath": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\modelos\\modelos.csproj",
+        "packagesPath": "C:\\Users\\Karla Valverde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Karla Valverde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\services\\services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\services\\services.csproj",
+        "projectName": "services",
+        "projectPath": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\services\\services.csproj",
+        "packagesPath": "C:\\Users\\Karla Valverde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Karla Valverde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\dataaccess\\dataaccess.csproj": {
+                "projectPath": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\dataaccess\\dataaccess.csproj"
+              },
+              "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\modelos\\modelos.csproj": {
+                "projectPath": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\modelos\\modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

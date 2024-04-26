@@ -1,0 +1,16 @@
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\bin\Debug\net8.0\dataaccess.deps.json
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\bin\Debug\net8.0\dataaccess.dll
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\bin\Debug\net8.0\dataaccess.pdb
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\bin\Debug\net8.0\modelos.dll
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\bin\Debug\net8.0\modelos.pdb
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\bin\Debug\net8.0\modelos.dll.config
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\obj\Debug\net8.0\dataaccess.csproj.AssemblyReference.cache
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\obj\Debug\net8.0\dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\obj\Debug\net8.0\dataaccess.AssemblyInfoInputs.cache
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\obj\Debug\net8.0\dataaccess.AssemblyInfo.cs
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\obj\Debug\net8.0\dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\obj\Debug\net8.0\dataaccess.csproj.Up2Date
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\obj\Debug\net8.0\dataaccess.dll
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\obj\Debug\net8.0\refint\dataaccess.dll
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\obj\Debug\net8.0\dataaccess.pdb
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\dataaccess\obj\Debug\net8.0\ref\dataaccess.dll

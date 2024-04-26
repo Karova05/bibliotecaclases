@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5D9BA-6835-4BC0-8E4D-F536E55EF9A1}|services\\services.csproj|c:\\users\\karla valverde\\source\\repos\\bibliotecaclases\\services\\acme\\empresaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5D9BA-6835-4BC0-8E4D-F536E55EF9A1}|services\\services.csproj|solutionrelative:services\\acme\\empresaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D09EA9C-4C88-40AF-99B5-5EA592FAE57D}|ProyectoACME\\ProyectoACME.csproj|c:\\users\\karla valverde\\source\\repos\\bibliotecaclases\\proyectoacme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D09EA9C-4C88-40AF-99B5-5EA592FAE57D}|ProyectoACME\\ProyectoACME.csproj|solutionrelative:proyectoacme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpresaServices.cs",
+              "DocumentMoniker": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\services\\ACME\\EmpresaServices.cs",
+              "RelativeDocumentMoniker": "services\\ACME\\EmpresaServices.cs",
+              "ToolTip": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\services\\ACME\\EmpresaServices.cs",
+              "RelativeToolTip": "services\\ACME\\EmpresaServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:07:22.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AQIAACYAAAAAAAAAAAAawDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-26T11:02:19.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\ProyectoACME\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoACME\\Program.cs",
+              "ToolTip": "C:\\Users\\Karla Valverde\\source\\repos\\BibliotecaClases\\ProyectoACME\\Program.cs",
+              "RelativeToolTip": "ProyectoACME\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:55:44.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

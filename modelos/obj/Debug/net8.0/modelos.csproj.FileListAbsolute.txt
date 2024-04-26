@@ -1,0 +1,16 @@
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\bin\Debug\net8.0\modelos.dll.config
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\bin\Debug\net8.0\modelos.deps.json
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\bin\Debug\net8.0\modelos.dll
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\bin\Debug\net8.0\modelos.pdb
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\bin\Debug\net8.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\bin\Debug\net8.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\obj\Debug\net8.0\modelos.csproj.AssemblyReference.cache
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\obj\Debug\net8.0\modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\obj\Debug\net8.0\modelos.AssemblyInfoInputs.cache
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\obj\Debug\net8.0\modelos.AssemblyInfo.cs
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\obj\Debug\net8.0\modelos.csproj.CoreCompileInputs.cache
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\obj\Debug\net8.0\modelos.csproj.Up2Date
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\obj\Debug\net8.0\modelos.dll
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\obj\Debug\net8.0\refint\modelos.dll
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\obj\Debug\net8.0\modelos.pdb
+C:\Users\Karla Valverde\source\repos\BibliotecaClases\modelos\obj\Debug\net8.0\ref\modelos.dll
